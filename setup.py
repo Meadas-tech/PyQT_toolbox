@@ -7,5 +7,5 @@ setup(
         "pyqt_toolbox",
     ],
     license="GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1",
-    long_description=open("README.txt").read(),
+    long_description=open("README.md").read(),
 )
